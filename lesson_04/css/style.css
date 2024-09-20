@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:regular,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital@1&display=swap');
+/* ------------------------ */
+
+@import url('fonts.css');
+@import url('reset.css');
+
+/* ----------------------- */
+
+.block {
+	font-family: 'Philosopher', serif;
+	font-size: 18px;
+}
+.box {
+}
+
+.subtitle1 {
+	text-align: right;
+	/* text-decoration: line-through; */
+	text-shadow: 2px 3px 5px #222222;
+	font-size: 48px;
+}
+.text1 {
+	letter-spacing: 10px;
+	word-spacing: 25px;
+	white-space: normal;
+}
+.subtitle2 {
+	text-transform: capitalize;
+	font-size: 50px;
+	color: aquamarine;
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 3px 4px 6px #b3b3b3;
+}
+.text2 {
+	font-size: 20px;
+	letter-spacing: 5px;
+	color: greenyellow;
+	text-decoration: overline;
+	text-decoration-style: wavy;
+	text-decoration-color: grey;
+	text-decoration-thickness: 1px;
+	text-transform: capitalize;
+}
+.subtitle3 {
+	color: rgb(126, 60, 60);
+	font-size: 40px;
+}
+.text3 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-weight: 700;
+	font-size: 21px;
+	color: #794f45;
+}
+.subtitle4 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: 500;
+	font-size: 60px;
+	color: tan;
+	text-align: justify;
+	word-spacing: 50px;
+	letter-spacing: 20px;
+}
+.text4 {
+	font-size: 22px;
+	color: darkslateblue;
+	text-decoration: line-through;
+	text-decoration-style: double;
+}
+
+.block-1 {
+	font-family: 'Work Sans', serif;
+	font-size: 18px;
+}
+.title-1 {
+	font-size: 38px;
+	line-height: 1.32; /* 50/38 */
+	font-weight: 600;
+}
+.text-1 {
+	line-height: 1.33; /* 24/18 */
+}
+
+.block-2 {
+	font-family: 'DM sans', serif;
+	font-size: 24px;
+}
+.title-2 {
+	font-size: 88px;
+	font-weight: 700;
+	line-height: 1.08; /* 95/88 */
+}
+.text-2 {
+	line-height: 1.75; /* 42/24 */
+}
+
+.block-3 {
+	font-family: 'Roboto', serif;
+	font-size: 18px;
+}
+.title-3 {
+	font-size: 50px;
+	font-weight: 500;
+	line-height: 1.32; /* 66/50 */
+}
+.text-3 {
+	line-height: 1.67; /* 30/18 */
+}
